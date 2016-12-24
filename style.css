@@ -5,7 +5,8 @@ html, body{
 
 .header {
   background-image: url(http://il5.picdn.net/shutterstock/videos/15385477/thumb/1.jpg);
-  height: 500px
+  height: 500px;
+  background-origin: border-box;
   color: #7fffd4;
 }
 
