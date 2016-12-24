@@ -4,8 +4,8 @@ html, body{
 }
 
 .header {
-  <--background-image: url(http://il5.picdn.net/shutterstock/videos/15385477/thumb/1.jpg);--
-   >
+  background-image: url(http://il5.picdn.net/shutterstock/videos/15385477/thumb/1.jpg);
+  background-repeat: no-repeat;
   height: 500px;
   color: #7fffd4;
 }
