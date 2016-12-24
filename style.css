@@ -2,6 +2,10 @@ html, body{
   margin: 0;
 }
 
+.header{
+  background-image: url(http://il5.picdn.net/shutterstock/videos/15385477/thumb/1.jpg);
+}
+
 h1{
   text-align: center;
   font-size: 100px;
