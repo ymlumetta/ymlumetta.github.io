@@ -8,9 +8,11 @@
   height: 500px;
   background-origin: border-box;
   color: #7fffd4;
+ position: relative;
 }
 
 h1{
   text-align: center;
   font-size: 100px;
+ margin-top: 2cm;
 }
