@@ -4,7 +4,10 @@ html, body{
 
 .header {
   background-image: url(http://il5.picdn.net/shutterstock/videos/15385477/thumb/1.jpg);
+  height: 600px;
   background-position: center center;
+  margin: 0;
+  color: white;
 }
 
 h1{
