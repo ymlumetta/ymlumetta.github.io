@@ -1,1 +1,27 @@
+<!DOCTYPE html>
 
+<head>
+    <title>Practicey Practice</title>
+    <link href="/style.css" type = "text/css" rel="stylesheet">  
+</head>
+
+<body>
+        
+    <div class = "header">
+    <h1>Hello!</h1>
+    </div>
+        
+<p>If you're reading this, you are either:</p>
+        <div class="col">
+          <h2>Friend</h2>
+          <p>I'm either working with you, or showing you this because I think it's kinda neat.</p>
+        </div>
+        <div class="col">
+          <h2>Potential Employer</h2>
+          <p>I'm blatantly trying to impress you. Enjoy some pretty websites!</p>
+        </div>
+        <div class="col">
+          <h2>Someone Else</h2>
+          <p>You've somehow stumbled upon this. You are a very curious individual indeed.</p>
+        </div>
+</body>
