@@ -2,7 +2,7 @@
 
 <head>
     <title>Practicey Practice</title>
-    <link href="/style.css" type = "text/css" rel="stylesheet">  
+    <link href="/home_style.css" type = "text/css" rel="stylesheet">  
 </head>
 
 <body>
